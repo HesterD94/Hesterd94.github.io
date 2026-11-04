@@ -2,6 +2,6 @@
 // Never place a service_role key in this file.
 
 window.CLIMBING_CONFIG = {
-  supabaseUrl: "https://okurkrwhclqrbtyrpgxu.supabase.co",
+  supabaseUrl: "https://okurkrwhclqrbtyrpgxu.supabase.co/rest/v1/",
   supabasePublishableKey: "sb_publishable_s3QBqwp6CoaPnDYf2A4vkw_wAMJc4eK"
 };
